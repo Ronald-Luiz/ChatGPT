@@ -5,7 +5,7 @@
 1. Clone the Github repo in your current directory
 
 ```bash
-git clone https://github.com/notunderctrl/discord-chat-bot.git .
+git clone https://github.com/Ronald-Luiz/ChatGPT .
 ```
 
 ---
