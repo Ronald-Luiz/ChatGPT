@@ -1,0 +1,4 @@
+TOKEN = seu-token
+OPENAI_ORGANIZATION = seu-openia-organization
+OPENAI_API_KEY = seu-opeai-api-key
+CHAT_BOT_CHANNEL = id-channel-discord
